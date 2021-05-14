@@ -11,6 +11,7 @@ Scenario Outline: Checking currency conversion between different countries by gi
 	Then User checks converted baseCurrency
 	Then User close the browser
 	
+
 	Examples:
 	|rownum|
 	|2|

@@ -9,7 +9,8 @@ public class WebElementPaths {
 	
 	WebDriver driver;
 	
-	
+	//Change
+
 	@FindBy(id="quote_currency")
 	WebElement quoteCurrencyTextbox;
 	
