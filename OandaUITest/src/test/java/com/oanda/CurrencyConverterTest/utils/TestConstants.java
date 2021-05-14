@@ -5,6 +5,7 @@ import java.util.HashMap;
 
 public class TestConstants {
 	
+
 	
 	
 	public final static String XML_CONTENT_TYPE = "text/xml;charset=utf-8";
