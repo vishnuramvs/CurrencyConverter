@@ -10,6 +10,8 @@ Scenario Outline: quoteCurrency alert check
 	Examples:
 	|quoteCurrency|
 	|Malagasy Franc|
+	|merry|
+	
 	
 
 @smoke
